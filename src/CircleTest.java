@@ -7,7 +7,6 @@ import org.junit.*;
 class Test {
 
     // variables for test cases
-
     @Test
     public void CptS132CircleConstructor() {
         new CptS132Circle(5);
