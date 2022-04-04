@@ -1,10 +1,7 @@
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
+import org.junit.Test;
 
-import java.beans.Transient;
-
-import org.junit.*;
-
-class Test {
+class CircleTest {
 
     // variables for test cases
     @Test
